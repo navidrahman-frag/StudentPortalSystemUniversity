@@ -1,6 +1,6 @@
 # StudentPortalSystem
 
-# Course Management System
+# Portal Management System
 
 A desktop-based **Course Management System** developed using **C# Windows Forms (.NET Framework)** and **SQL Server**.
 This project helps manage students, teachers, courses, enrollments, payments, and academic activities through an interactive graphical user interface.
